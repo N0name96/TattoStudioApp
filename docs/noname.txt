@@ -1,0 +1,37 @@
+Funcionalidades de la aplicación:
+
+- Organización de calendario conectado con google calendar
+Conexión con google Calendar
+Calendario Visual de citas para tatuadores
+gestion de cabinas libres/ocupadas
+Calendaro de eventos personalizados
+
+- Consentimientos
+Firma digital a traves de QR
+Modelos de tatuaje, piercing, micro, laser y gemas dentales
+Almacenamiento de firmas en la nube
+Firma 'no presencial' del consentimiento informado
+Cumple con Sanidad, GPD y Firma Digital elIDAS
+
+- Control de clientes
+Base de datos de clientes
+Control de origen del cliente
+Gestión de derechos de imagen
+Fichas de cliente con historial
+
+
+- Comunicaciones por correo electrónico
+Recordatorio de citas
+cuidados post-servicio y review de google
+Felicitaciones por cumples
+
+- Control de caja y productos de estudio
+Venta de articulos y control de stock
+Calculo de comisiones a artistas
+Control de gastos del estudio
+Compatible con Veri*Factu
+
+- Metricas que ayudan a entender el estudio
+Segmento de clientes por rango de edad
+-graficos que muestran cómo te conocen tus clientes
+Rendimiento individual de cada artista
